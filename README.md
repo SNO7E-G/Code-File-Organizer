@@ -19,10 +19,6 @@
 
 Code File Organizer is a powerful Python tool that automatically organizes code files into directories based on file type, project structure, and content analysis. It uses intelligent algorithms to categorize files beyond just their extensions, making it perfect for cleaning up messy project directories or standardizing your development workspace.
 
-<div align="center">
-<img src="https://via.placeholder.com/800x400.png?text=Code+File+Organizer" alt="Code File Organizer Banner" width="700px" />
-</div>
-
 ## ✨ Features
 
 - **Intelligent Content Analysis**
