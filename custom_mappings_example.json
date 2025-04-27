@@ -1,0 +1,40 @@
+{
+    "source_dir": "C:/Users/username/Projects",
+    "target_dir": "C:/Users/username/Organized_Projects",
+    "mappings": {
+        "py": "Backend/Python",
+        "js": "Frontend/JavaScript",
+        "ts": "Frontend/TypeScript",
+        "tsx": "Frontend/React",
+        "jsx": "Frontend/React",
+        "html": "Frontend/HTML",
+        "css": "Frontend/CSS",
+        "scss": "Frontend/SASS",
+        "json": "Config/JSON",
+        "md": "Docs",
+        "sql": "Database",
+        "go": "Backend/Go",
+        "java": "Backend/Java",
+        "php": "Backend/PHP",
+        "rb": "Backend/Ruby",
+        "cs": "Backend/CSharp"
+    },
+    "project_mode": true,
+    "exclude_dirs": [
+        ".git", 
+        ".vscode", 
+        "node_modules", 
+        "venv", 
+        "env", 
+        "dist", 
+        "build",
+        "__pycache__"
+    ],
+    "exclude_files": [
+        "file_organizer.py",
+        "file_organizer_config.json",
+        "README.md",
+        "package.json",
+        "requirements.txt"
+    ]
+} 
