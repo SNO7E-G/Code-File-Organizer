@@ -127,10 +127,6 @@ usage: file_organizer.py [-h] [--target-dir TARGET_DIR] [--project-mode]
 
 ### Smart Detection Process
 
-<div align="center">
-<img src="https://via.placeholder.com/800x300.png?text=Smart+Detection+Process" alt="Smart Detection Process" width="700px" />
-</div>
-
 1. **Project Analysis**
    - Scans for project identifiers (package.json, requirements.txt, etc.)
    - Identifies repository type and structure
