@@ -9,7 +9,7 @@
 
 **Intelligent file organization for developers**
 
-[Features](#features) • [Installation](#installation) • [Usage](#usage) • [Documentation](#documentation) • [Examples](#examples) • [License](#license)
+[Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Documentation](#-documentation) • [Examples](#-examples) • [License](#-license)
 
 </div>
 
